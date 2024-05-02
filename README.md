@@ -1,3 +1,24 @@
+# <h1>Od-Derys-Bolivar</h1>
+<h2>Proyecto web Odontologia</h2>
+
+<h2>Usando Tecnologias:</h2>
+
+<img src="https://skillicons.dev/icons?i=astro,html,tailwind,react" />
+
+<h2>Paleta de colores</h2>
+#D974FC --primario
+#FC74ED --secundario
+#1ADBD8 --Terciario
+
+<h2>Font</h2>
+
+<h3>.poetsen-one-regular {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+</h3>
+
 # Astro Starter Kit: Basics
 
 ```sh
